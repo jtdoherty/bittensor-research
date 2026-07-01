@@ -53,6 +53,22 @@ Mining = two stacked arbitrages + a contest, funded by inflation:
 - **Edge-gated map (mining EV is gated by the edge, not the subnet):** datacenter GPUs → lium (51) / Chutes (64) only if free/sunk; TEE hardware (Intel TDX / SEV-SNP) → Targon (4); genomics → Minos (107); comp-chem → NOVA (68); frontier ML lab → Albedo (97) / Affine (120); agent engineering → Harnyx (67); pure capital + automation → Tag101 (101).
 - **Avoid regardless of edge (for a marginal newcomer):** Quasar (24), GreenCompute (110), Gradients (56), Chutes at market rental (64).
 
+## Validator / staking research (added 2026-06-30)
+Mining isn't the only earner. A live `btcli` pull added a **validator/staking**
+track — see **`HOW_TO_MAKE_MONEY_ON_BITTENSOR.md`** (delegating vs validating vs
+mining) and the reusable analyzer **`tools/subnet_yield.py`** (data snapshot in
+`data/2026-06-30-validator-snapshot/`).
+- **Permit ≠ income.** On thin/new subnets fewer than 64 neurons hold stake, so a
+  validator permit is effectively free — but dividends are stake-weighted, so
+  *meaningful* income still needs large capital vs. the pro-validator cartel +
+  owners. Emission APY ~70–135% but **alpha-denominated** (price cancels at entry;
+  real return = APY − token melt).
+- **Screen:** only **25/129** subnets have positive net inflow (cross-validates the
+  mining melters). Best *open* validator slots (emitting + owner-cap 0–17% +
+  positive inflow): **Memo (116)**, **Compelle (82)**, **EvolAI (47)**, **ain (69)**.
+  Owner-captured, avoid: Perturb (26, 100%), Fast Thinker (16, 99%), Ralph (40, 65%).
+  Dormant (emission off): greevils (58). Scorecard: `subnet-116-memo/VALIDATOR_SCORECARD.md`.
+
 ## Method notes / consistency
 - TAO/USD varied across analyses ($218–$275). Treat cross-subnet $/day as
   **directional**; re-normalize to one TAO price before final ranking.

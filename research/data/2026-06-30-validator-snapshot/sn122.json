@@ -1,0 +1,32 @@
+{"netuid": 122, "mechanism_id": 0, "mechanism_count": 1, "name": ": CookingTAO",
+"owner": "5F3uH1G4QNyT8UR6D2Zf2zmXa6WAxYC3MfaiSGgg5pScWfY9", "owner_identity": 
+"CookingTAO", "rate": 0.013236927, "emission": 0.0, "tao_pool": 2426.653271082, 
+"alpha_pool": 183324.506553421, "tempo": {"block_since_last_step": 311, "tempo":
+360}, "registration_cost": 0.999999999, "uids": [{"uid": 0, "stake": 
+483945.73051064, "alpha_stake": 106748.18276636, "tao_stake": 377197.547880894, 
+"dividends": 0.4258487830930037, "incentive": 1.0, "locked_perpetual_rao": 
+61228304670199, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 
+61228304670199, "emissions": 210.45840917, "hotkey": 
+"5CfPqfaz6L11nu7yX7LKXFwg3KZkuKCiyvYFDW9N34dnJyYB", "coldkey": 
+"5F3uH1G4QNyT8UR6D2Zf2zmXa6WAxYC3MfaiSGgg5pScWfY9", "identity": 
+"[dark_sea_green3]CookingTAO (*Owner)[/dark_sea_green3]", "claim_type": "Swap", 
+"claim_type_subnets": null}, {"uid": 1, "stake": 522421.264492997, 
+"alpha_stake": 39355.827006965, "tao_stake": 483065.437660989, "dividends": 
+0.4599679560540169, "incentive": 0.0, "locked_perpetual_rao": 0, 
+"locked_decaying_rao": 0, "conviction_alpha_eq_rao": 0, "emissions": 
+67.89323095, "hotkey": "5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u", 
+"coldkey": "5GsbTgfvgCH4xdqSkiPb7EaBBFLHjWH5vfEALhJaewSFpZX9", "identity": 
+"tao.bot", "claim_type": "Swap", "claim_type_subnets": null}, {"uid": 2, 
+"stake": 129702.496356261, "alpha_stake": 2804.414051686, "tao_stake": 
+126898.082350535, "dividends": 0.11415274280918593, "incentive": 0.0, 
+"locked_perpetual_rao": 0, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 
+0, "emissions": 16.850007118, "hotkey": 
+"5Dd76FfntpDjfYJK8Mwnq1yPTAw9QW7vHfxNQdiWxVgmkfk6", "coldkey": 
+"5E9fVY1jexCNVMjd2rdBsAxeamFGEMfzHcyTn2fHgdHeYc5p", "identity": "Yuma, a DCG 
+Company", "claim_type": "Swap", "claim_type_subnets": null}, {"uid": 3, "stake":
+0.0, "alpha_stake": 0.0, "tao_stake": 0.0, "dividends": 0.0, "incentive": 0.0, 
+"locked_perpetual_rao": 0, "locked_decaying_rao": 0, "conviction_alpha_eq_rao": 
+0, "emissions": 0.0, "hotkey": 
+"5DDZK5usJrjS46bEUyqys7FrRjQuTTkHZYog2tSgGgMJx5uh", "coldkey": 
+"5ERJbjx31UqtEiGTpY6e69Eu6DEyBupskAPEuFhMo1La1pv8", "identity": "~", 
+"claim_type": null, "claim_type_subnets": null}]}

@@ -1,0 +1,645 @@
+{"total_tao_emitted": 1994044.618336625, "total_emissions": 0.20598138000000005,
+"total_rate": 2.3940463309999993, "total_netuids": 129, "emission_percentage": 
+23.402219503407856, "total_tao_flow_ema": -0.28199836899999997, "subnets": {"0":
+{"netuid": 0, "subnet_name": "root", "price": 1.0, "market_cap": 
+6081347.803470422, "emission": 0.0, "tao_flow_ema": null, "liquidity": 
+{"tao_in": null, "alpha_in": null}, "alpha_out": null, "supply": 
+6081347.803470422, "tempo": {"blocks_since_last_step": null, "sn_tempo": null}, 
+"mechanisms": 1}, "64": {"netuid": 64, "subnet_name": "Chutes", "price": 
+0.075395578, "market_cap": 418568.8479840624, "emission": 0.011120438, 
+"tao_flow_ema": 0.006078987, "liquidity": {"tao_in": 202863.537277069, 
+"alpha_in": 2690655.633325174}, "alpha_out": 2860980.93591848, "supply": 
+5551636.569243655, "tempo": {"blocks_since_last_step": 227, "sn_tempo": 360}, 
+"mechanisms": 1}, "4": {"netuid": 4, "subnet_name": "Targon", "price": 
+0.053589535, "market_cap": 298427.2283569936, "emission": 0.007883436, 
+"tao_flow_ema": -0.004647662, "liquidity": {"tao_in": 130537.784074507, 
+"alpha_in": 2435881.993299844}, "alpha_out": 3132877.436260304, "supply": 
+5568759.429560148, "tempo": {"blocks_since_last_step": 167, "sn_tempo": 360}, 
+"mechanisms": 1}, "51": {"netuid": 51, "subnet_name": "lium.io", "price": 
+0.054001346, "market_cap": 283634.0533546274, "emission": 0.00834859, 
+"tao_flow_ema": 0.015805744, "liquidity": {"tao_in": 118237.146578651, 
+"alpha_in": 2189522.18790325}, "alpha_out": 3062829.361901219, "supply": 
+5252351.54980447, "tempo": {"blocks_since_last_step": 214, "sn_tempo": 360}, 
+"mechanisms": 1}, "44": {"netuid": 44, "subnet_name": "Score", "price": 
+0.038973179, "market_cap": 206947.16994757458, "emission": 0.005969856, 
+"tao_flow_ema": -0.001014189, "liquidity": {"tao_in": 65234.836510243, 
+"alpha_in": 1673839.21375722}, "alpha_out": 3636150.252269521, "supply": 
+5309989.466026741, "tempo": {"blocks_since_last_step": 207, "sn_tempo": 360}, 
+"mechanisms": 2}, "120": {"netuid": 120, "subnet_name": "Affine", "price": 
+0.055130548, "market_cap": 198658.87985665334, "emission": 0.011602535, 
+"tao_flow_ema": -0.00509013, "liquidity": {"tao_in": 77118.596788085, 
+"alpha_in": 1398836.027950087}, "alpha_out": 2204590.512570666, "supply": 
+3603426.5405207532, "tempo": {"blocks_since_last_step": 283, "sn_tempo": 360}, 
+"mechanisms": 1}, "9": {"netuid": 9, "subnet_name": "iota", "price": 
+0.034199897, "market_cap": 186510.0826503153, "emission": 0.002424421, 
+"tao_flow_ema": 0.013013288, "liquidity": {"tao_in": 60802.255099623, 
+"alpha_in": 1777849.050274446}, "alpha_out": 3675678.562698052, "supply": 
+5453527.612972498, "tempo": {"blocks_since_last_step": 172, "sn_tempo": 360}, 
+"mechanisms": 1}, "8": {"netuid": 8, "subnet_name": "Vanta", "price": 
+0.030517487, "market_cap": 165327.48924216765, "emission": 0.001390197, 
+"tao_flow_ema": -0.008329727, "liquidity": {"tao_in": 81289.057451636, 
+"alpha_in": 2663687.765064721}, "alpha_out": 2753779.578893438, "supply": 
+5417467.343958159, "tempo": {"blocks_since_last_step": 171, "sn_tempo": 360}, 
+"mechanisms": 1}, "95": {"netuid": 95, "subnet_name": "Actual", "price": 
+0.049134505, "market_cap": 150446.40091458417, "emission": 0.0, "tao_flow_ema": 
+-0.00113904, "liquidity": {"tao_in": 29448.663447808, "alpha_in": 
+599347.918130501}, "alpha_out": 2462581.797343058, "supply": 3061929.715473559, 
+"tempo": {"blocks_since_last_step": 258, "sn_tempo": 360}, "mechanisms": 1}, 
+"3": {"netuid": 3, "subnet_name": "deprecated", "price": 0.022357798, 
+"market_cap": 120700.50127967662, "emission": 0.003377021, "tao_flow_ema": 
+-0.039546649, "liquidity": {"tao_in": 68524.581666955, "alpha_in": 
+3064907.394773163}, "alpha_out": 2333678.873860117, "supply": 5398586.26863328, 
+"tempo": {"blocks_since_last_step": 166, "sn_tempo": 360}, "mechanisms": 1}, 
+"68": {"netuid": 68, "subnet_name": "NOVA", "price": 0.021568061, "market_cap": 
+111552.6649198954, "emission": 0.003378036, "tao_flow_ema": 0.002025766, 
+"liquidity": {"tao_in": 42382.242335291, "alpha_in": 1965046.39416323}, 
+"alpha_out": 3207076.631633822, "supply": 5172123.025797052, "tempo": 
+{"blocks_since_last_step": 231, "sn_tempo": 360}, "mechanisms": 2}, "56": 
+{"netuid": 56, "subnet_name": "Gradients", "price": 0.01842041, "market_cap": 
+99100.06152257271, "emission": 0.002790498, "tao_flow_ema": -0.009019599, 
+"liquidity": {"tao_in": 53727.017536778, "alpha_in": 2916711.180919106}, 
+"alpha_out": 2463194.12643142, "supply": 5379905.307350526, "tempo": 
+{"blocks_since_last_step": 219, "sn_tempo": 360}, "mechanisms": 1}, "75": 
+{"netuid": 75, "subnet_name": "Hippius", "price": 0.018626965, "market_cap": 
+92683.31847953305, "emission": 0.000265678, "tao_flow_ema": -0.012928061, 
+"liquidity": {"tao_in": 33592.216126277, "alpha_in": 1803418.612848103}, 
+"alpha_out": 3172341.983659865, "supply": 4975760.596507968, "tempo": 
+{"blocks_since_last_step": 238, "sn_tempo": 360}, "mechanisms": 1}, "28": 
+{"netuid": 28, "subnet_name": "gm", "price": 0.013817822, "market_cap": 
+75287.12878771401, "emission": 4.1412e-05, "tao_flow_ema": -0.00184331, 
+"liquidity": {"tao_in": 16990.766425614, "alpha_in": 1229626.870240282}, 
+"alpha_out": 4218925.643152495, "supply": 5448552.513392777, "tempo": 
+{"blocks_since_last_step": 191, "sn_tempo": 360}, "mechanisms": 1}, "5": 
+{"netuid": 5, "subnet_name": "Hone", "price": 0.014442001, "market_cap": 
+74910.55591179313, "emission": 0.0, "tao_flow_ema": -0.015845505, "liquidity": 
+{"tao_in": 34942.22297357, "alpha_in": 2419486.101914378}, "alpha_out": 
+2767506.747053929, "supply": 5186992.848968307, "tempo": 
+{"blocks_since_last_step": 168, "sn_tempo": 360}, "mechanisms": 1}, "62": 
+{"netuid": 62, "subnet_name": "Ridges", "price": 0.012869222, "market_cap": 
+63857.29395182484, "emission": 0.0, "tao_flow_ema": -0.025955816, "liquidity": 
+{"tao_in": 32115.659922989, "alpha_in": 2495540.098234655}, "alpha_out": 
+2466476.560723038, "supply": 4962016.658957693, "tempo": 
+{"blocks_since_last_step": 225, "sn_tempo": 360}, "mechanisms": 1}, "34": 
+{"netuid": 34, "subnet_name": "BitMind", "price": 0.012499762, "market_cap": 
+62827.370606933, "emission": 0.00200543, "tao_flow_ema": -0.003306888, 
+"liquidity": {"tao_in": 34732.518925213, "alpha_in": 2778654.206357544}, 
+"alpha_out": 2247631.142670142, "supply": 5026285.349027686, "tempo": 
+{"blocks_since_last_step": 197, "sn_tempo": 360}, "mechanisms": 1}, "19": 
+{"netuid": 19, "subnet_name": "blockmachine", "price": 0.011033426, 
+"market_cap": 59240.31226619396, "emission": 7.4625e-05, "tao_flow_ema": 
+-0.00820563, "liquidity": {"tao_in": 33274.081196414, "alpha_in": 
+3015752.227536088}, "alpha_out": 2353415.270047524, "supply": 5369167.497583612,
+"tempo": {"blocks_since_last_step": 182, "sn_tempo": 360}, "mechanisms": 1}, 
+"14": {"netuid": 14, "subnet_name": "Cacheon", "price": 0.010754651, 
+"market_cap": 57115.62529644626, "emission": 0.0, "tao_flow_ema": -0.012349965, 
+"liquidity": {"tao_in": 26887.095539761, "alpha_in": 2500043.450967754}, 
+"alpha_out": 2810740.255211672, "supply": 5310783.706179425, "tempo": 
+{"blocks_since_last_step": 177, "sn_tempo": 360}, "mechanisms": 1}, "107": 
+{"netuid": 107, "subnet_name": "Minos", "price": 0.042884447, "market_cap": 
+56370.131277489294, "emission": 0.018157183, "tao_flow_ema": 0.001226016, 
+"liquidity": {"tao_in": 10623.566008838, "alpha_in": 247725.380704047}, 
+"alpha_out": 1066740.24077148, "supply": 1314465.6214755268, "tempo": 
+{"blocks_since_last_step": 270, "sn_tempo": 360}, "mechanisms": 1}, "17": 
+{"netuid": 17, "subnet_name": "404\u2014GEN", "price": 0.009990687, 
+"market_cap": 53266.83400315254, "emission": 0.001525091, "tao_flow_ema": 
+-0.008483605, "liquidity": {"tao_in": 26191.749581763, "alpha_in": 
+2621616.444967797}, "alpha_out": 2710032.319842125, "supply": 5331648.764809921,
+"tempo": {"blocks_since_last_step": 180, "sn_tempo": 360}, "mechanisms": 1}, 
+"93": {"netuid": 93, "subnet_name": "Bitcast", "price": 0.011575893, 
+"market_cap": 51719.930221862734, "emission": 0.000435102, "tao_flow_ema": 
+-0.003371679, "liquidity": {"tao_in": 17645.975439859, "alpha_in": 
+1524372.594778112}, "alpha_out": 2943527.222701432, "supply": 4467899.817479544,
+"tempo": {"blocks_since_last_step": 256, "sn_tempo": 360}, "mechanisms": 2}, 
+"24": {"netuid": 24, "subnet_name": "Quasar", "price": 0.009355191, 
+"market_cap": 49740.982034769855, "emission": 0.001431428, "tao_flow_ema": 
+-0.003987432, "liquidity": {"tao_in": 12902.714267541, "alpha_in": 
+1379203.695246153}, "alpha_out": 3937735.535045335, "supply": 5316939.230291488,
+"tempo": {"blocks_since_last_step": 187, "sn_tempo": 360}, "mechanisms": 1}, 
+"53": {"netuid": 53, "subnet_name": "EfficientFrontier", "price": 0.009119427, 
+"market_cap": 48906.14799804115, "emission": 0.0, "tao_flow_ema": -0.001122309, 
+"liquidity": {"tao_in": 18425.904423299, "alpha_in": 2020511.082060018}, 
+"alpha_out": 3342342.088214952, "supply": 5362853.17027497, "tempo": 
+{"blocks_since_last_step": 216, "sn_tempo": 360}, "mechanisms": 1}, "1": 
+{"netuid": 1, "subnet_name": "Apex", "price": 0.008698111, "market_cap": 
+46193.10036875673, "emission": 0.000375314, "tao_flow_ema": -0.00249399, 
+"liquidity": {"tao_in": 26230.932666228, "alpha_in": 3015704.204621543}, 
+"alpha_out": 2295000.656325476, "supply": 5310704.8609470185, "tempo": 
+{"blocks_since_last_step": 97, "sn_tempo": 99}, "mechanisms": 1}, "118": 
+{"netuid": 118, "subnet_name": "Ditto", "price": 0.019038897, "market_cap": 
+45115.23340951652, "emission": 0.0, "tao_flow_ema": -0.001951901, "liquidity": 
+{"tao_in": 8647.410272564, "alpha_in": 454197.000212822}, "alpha_out": 
+1915437.827346596, "supply": 2369634.827559418, "tempo": 
+{"blocks_since_last_step": 281, "sn_tempo": 360}, "mechanisms": 1}, "11": 
+{"netuid": 11, "subnet_name": "TrajectoryRL", "price": 0.008280135, 
+"market_cap": 44152.033969665776, "emission": 0.001263219, "tao_flow_ema": 
+-0.004553696, "liquidity": {"tao_in": 20182.178203776, "alpha_in": 
+2437421.242044174}, "alpha_out": 2894863.070912774, "supply": 5332284.312956948,
+"tempo": {"blocks_since_last_step": 174, "sn_tempo": 360}, "mechanisms": 1}, 
+"66": {"netuid": 66, "subnet_name": "ninja", "price": 0.008249751, "market_cap":
+43068.38951882181, "emission": 0.0, "tao_flow_ema": -0.005772511, "liquidity": 
+{"tao_in": 10884.9850158, "alpha_in": 1319431.871401384}, "alpha_out": 
+3901136.545611664, "supply": 5220568.417013048, "tempo": 
+{"blocks_since_last_step": 229, "sn_tempo": 360}, "mechanisms": 1}, "63": 
+{"netuid": 63, "subnet_name": "Enigma", "price": 0.008032633, "market_cap": 
+42644.56963287976, "emission": 0.001230638, "tao_flow_ema": -0.002324381, 
+"liquidity": {"tao_in": 14687.68815065, "alpha_in": 1828502.239580758}, 
+"alpha_out": 3480413.234695206, "supply": 5308915.474275963, "tempo": 
+{"blocks_since_last_step": 226, "sn_tempo": 360}, "mechanisms": 1}, "18": 
+{"netuid": 18, "subnet_name": "Zeus", "price": 0.008296486, "market_cap": 
+42448.26077430636, "emission": 0.001311325, "tao_flow_ema": 0.000338724, 
+"liquidity": {"tao_in": 14186.240805573, "alpha_in": 1709909.531844472}, 
+"alpha_out": 3406504.908474763, "supply": 5116414.4403192345, "tempo": 
+{"blocks_since_last_step": 181, "sn_tempo": 360}, "mechanisms": 1}, "79": 
+{"netuid": 79, "subnet_name": "MVTRX", "price": 0.009131842, "market_cap": 
+41725.95474341854, "emission": 0.00158617, "tao_flow_ema": -0.005120568, 
+"liquidity": {"tao_in": 11276.904891626, "alpha_in": 1234899.171879438}, 
+"alpha_out": 3334382.112599481, "supply": 4569281.284478919, "tempo": 
+{"blocks_since_last_step": 242, "sn_tempo": 360}, "mechanisms": 1}, "83": 
+{"netuid": 83, "subnet_name": "CliqueAI", "price": 0.012641601, "market_cap": 
+40342.380767843795, "emission": 0.0, "tao_flow_ema": 0.000950791, "liquidity": 
+{"tao_in": 9762.085049547, "alpha_in": 772219.00939353}, "alpha_out": 
+2419020.831813592, "supply": 3191239.841207122, "tempo": 
+{"blocks_since_last_step": 246, "sn_tempo": 360}, "mechanisms": 1}, "15": 
+{"netuid": 15, "subnet_name": "ORO", "price": 0.029078726, "market_cap": 
+39882.06175587673, "emission": 0.01197678, "tao_flow_ema": -0.000919801, 
+"liquidity": {"tao_in": 9077.535544339, "alpha_in": 312171.011525366}, 
+"alpha_out": 1059349.245444514, "supply": 1371520.25696988, "tempo": 
+{"blocks_since_last_step": 178, "sn_tempo": 360}, "mechanisms": 1}, "46": 
+{"netuid": 46, "subnet_name": "Zipcode", "price": 0.007601622, "market_cap": 
+39303.39258547026, "emission": 0.001190917, "tao_flow_ema": -0.0068442, 
+"liquidity": {"tao_in": 12186.543083097, "alpha_in": 1603150.172178802}, 
+"alpha_out": 3567245.380963707, "supply": 5170395.5531425085, "tempo": 
+{"blocks_since_last_step": 209, "sn_tempo": 360}, "mechanisms": 1}, "52": 
+{"netuid": 52, "subnet_name": "Dojo", "price": 0.007033583, "market_cap": 
+37871.24819774742, "emission": 0.0, "tao_flow_ema": -0.001055169, "liquidity": 
+{"tao_in": 18894.023948626, "alpha_in": 2686258.467071343}, "alpha_out": 
+2698088.059833567, "supply": 5384346.526904911, "tempo": 
+{"blocks_since_last_step": 215, "sn_tempo": 360}, "mechanisms": 1}, "13": 
+{"netuid": 13, "subnet_name": "Data Universe", "price": 0.006896412, 
+"market_cap": 37670.10573010426, "emission": 0.00082545, "tao_flow_ema": 
+-0.002983259, "liquidity": {"tao_in": 21991.655260387, "alpha_in": 
+3188854.335202676}, "alpha_out": 2273421.661374132, "supply": 5462275.996576808,
+"tempo": {"blocks_since_last_step": 176, "sn_tempo": 360}, "mechanisms": 1}, 
+"77": {"netuid": 77, "subnet_name": "Liquidity", "price": 0.007579799, 
+"market_cap": 37529.009275172226, "emission": 0.0, "tao_flow_ema": -0.006935415,
+"liquidity": {"tao_in": 13929.06982576, "alpha_in": 1837656.817757114}, 
+"alpha_out": 3113531.106246178, "supply": 4951187.924003292, "tempo": 
+{"blocks_since_last_step": 240, "sn_tempo": 360}, "mechanisms": 1}, "81": 
+{"netuid": 81, "subnet_name": "deprecated", "price": 0.007813338, "market_cap": 
+37484.895742521665, "emission": 0.001303348, "tao_flow_ema": -0.010295262, 
+"liquidity": {"tao_in": 19596.372589454, "alpha_in": 2508066.583204328}, 
+"alpha_out": 2289485.467215309, "supply": 4797552.050419637, "tempo": 
+{"blocks_since_last_step": 244, "sn_tempo": 360}, "mechanisms": 1}, "39": 
+{"netuid": 39, "subnet_name": "deprecated", "price": 0.006584686, "market_cap": 
+36061.46830496049, "emission": 0.000982531, "tao_flow_ema": -0.00816709, 
+"liquidity": {"tao_in": 17036.363013948, "alpha_in": 2587270.339333943}, 
+"alpha_out": 2889295.787731263, "supply": 5476566.127065206, "tempo": 
+{"blocks_since_last_step": 202, "sn_tempo": 360}, "mechanisms": 1}, "23": 
+{"netuid": 23, "subnet_name": "Trishool", "price": 0.006619261, "market_cap": 
+35743.7026902433, "emission": 0.000999587, "tao_flow_ema": 3.2502e-05, 
+"liquidity": {"tao_in": 9059.279738911, "alpha_in": 1368623.976927114}, 
+"alpha_out": 4031329.68712138, "supply": 5399953.664048494, "tempo": 
+{"blocks_since_last_step": 186, "sn_tempo": 360}, "mechanisms": 1}, "60": 
+{"netuid": 60, "subnet_name": "Bitsec.ai", "price": 0.006895607, "market_cap": 
+34898.298315348395, "emission": 0.001099945, "tao_flow_ema": 0.000428351, 
+"liquidity": {"tao_in": 8928.823406142, "alpha_in": 1294856.624512493}, 
+"alpha_out": 3766089.904973366, "supply": 5060946.529485859, "tempo": 
+{"blocks_since_last_step": 223, "sn_tempo": 360}, "mechanisms": 1}, "41": 
+{"netuid": 41, "subnet_name": "Almanac", "price": 0.006764792, "market_cap": 
+34713.123134715024, "emission": 0.000486829, "tao_flow_ema": -0.002647854, 
+"liquidity": {"tao_in": 14363.660024329, "alpha_in": 2123296.380541594}, 
+"alpha_out": 3008143.453043093, "supply": 5131439.833584687, "tempo": 
+{"blocks_since_last_step": 204, "sn_tempo": 360}, "mechanisms": 1}, "124": 
+{"netuid": 124, "subnet_name": "Swarm", "price": 0.008244131, "market_cap": 
+33961.329133141764, "emission": 0.001558778, "tao_flow_ema": -7.8097e-05, 
+"liquidity": {"tao_in": 10221.414126934, "alpha_in": 1239841.274410555}, 
+"alpha_out": 2879614.024533841, "supply": 4119455.298944396, "tempo": 
+{"blocks_since_last_step": 287, "sn_tempo": 360}, "mechanisms": 1}, "85": 
+{"netuid": 85, "subnet_name": "Vidaio", "price": 0.007374991, "market_cap": 
+33776.71255495067, "emission": 0.000714928, "tao_flow_ema": -0.006693889, 
+"liquidity": {"tao_in": 14724.501612642, "alpha_in": 1996544.931328594}, 
+"alpha_out": 2583353.885490391, "supply": 4579898.816818985, "tempo": 
+{"blocks_since_last_step": 248, "sn_tempo": 360}, "mechanisms": 1}, "12": 
+{"netuid": 12, "subnet_name": "Compute Horde", "price": 0.005759362, 
+"market_cap": 32493.093670567585, "emission": 0.0, "tao_flow_ema": -0.001638907,
+"liquidity": {"tao_in": 13896.460814629, "alpha_in": 2412847.200796062}, 
+"alpha_out": 3228939.801057196, "supply": 5641787.001853258, "tempo": 
+{"blocks_since_last_step": 175, "sn_tempo": 360}, "mechanisms": 1}, "50": 
+{"netuid": 50, "subnet_name": "Synth", "price": 0.006138559, "market_cap": 
+31439.4938227458, "emission": 0.000969414, "tao_flow_ema": -0.005670155, 
+"liquidity": {"tao_in": 12122.381382432, "alpha_in": 1974792.55485285}, 
+"alpha_out": 3146848.179193333, "supply": 5121640.734046183, "tempo": 
+{"blocks_since_last_step": 213, "sn_tempo": 360}, "mechanisms": 1}, "10": 
+{"netuid": 10, "subnet_name": "Swap", "price": 0.005764675, "market_cap": 
+30985.25458540939, "emission": 0.0, "tao_flow_ema": 0.001983054, "liquidity": 
+{"tao_in": 15647.396674705, "alpha_in": 2714358.828789437}, "alpha_out": 
+2660663.108337875, "supply": 5375021.937127313, "tempo": 
+{"blocks_since_last_step": 173, "sn_tempo": 360}, "mechanisms": 1}, "33": 
+{"netuid": 33, "subnet_name": "ReadyAI", "price": 0.006391307, "market_cap": 
+30383.453342545396, "emission": 0.000278986, "tao_flow_ema": -0.005438619, 
+"liquidity": {"tao_in": 16567.796855479, "alpha_in": 2592238.872955391}, 
+"alpha_out": 2161632.806584552, "supply": 4753871.679539943, "tempo": 
+{"blocks_since_last_step": 196, "sn_tempo": 360}, "mechanisms": 1}, "71": 
+{"netuid": 71, "subnet_name": "Leadpoet", "price": 0.00590055, "market_cap": 
+30301.029387812778, "emission": 0.00092974, "tao_flow_ema": -0.002241727, 
+"liquidity": {"tao_in": 5941.999534158, "alpha_in": 1007024.533196581}, 
+"alpha_out": 4128264.4462736, "supply": 5135288.979470181, "tempo": 
+{"blocks_since_last_step": 234, "sn_tempo": 360}, "mechanisms": 1}, "43": 
+{"netuid": 43, "subnet_name": "Graphite", "price": 0.005526384, "market_cap": 
+30033.782190431935, "emission": 0.0, "tao_flow_ema": -0.000834904, "liquidity": 
+{"tao_in": 14526.391082307, "alpha_in": 2628552.56326978}, "alpha_out": 
+2806064.754388917, "supply": 5434617.317658696, "tempo": 
+{"blocks_since_last_step": 206, "sn_tempo": 360}, "mechanisms": 1}, "111": 
+{"netuid": 111, "subnet_name": "Claims", "price": 0.006953487, "market_cap": 
+29434.29891706307, "emission": 0.0, "tao_flow_ema": -0.002088289, "liquidity": 
+{"tao_in": 6896.590171058, "alpha_in": 991817.397843688}, "alpha_out": 
+3241209.703100496, "supply": 4233027.100944184, "tempo": 
+{"blocks_since_last_step": 274, "sn_tempo": 360}, "mechanisms": 1}, "110": 
+{"netuid": 110, "subnet_name": "Green Compute", "price": 0.010093148, 
+"market_cap": 29365.167587057145, "emission": 0.0, "tao_flow_ema": 0.000884035, 
+"liquidity": {"tao_in": 5926.817731779, "alpha_in": 587211.994783198}, 
+"alpha_out": 2322204.134560902, "supply": 2909416.1293441, "tempo": 
+{"blocks_since_last_step": 273, "sn_tempo": 360}, "mechanisms": 1}, "2": 
+{"netuid": 2, "subnet_name": "DSperse", "price": 0.005430047, "market_cap": 
+28056.13091629984, "emission": 0.000394222, "tao_flow_ema": -0.002026472, 
+"liquidity": {"tao_in": 10202.990019963, "alpha_in": 1878987.406970683}, 
+"alpha_out": 3287842.809471244, "supply": 5166830.2164419275, "tempo": 
+{"blocks_since_last_step": 165, "sn_tempo": 360}, "mechanisms": 1}, "74": 
+{"netuid": 74, "subnet_name": "Gittensor", "price": 0.005721662, "market_cap": 
+27004.93059778565, "emission": 0.000967503, "tao_flow_ema": -0.001265889, 
+"liquidity": {"tao_in": 7714.857991995, "alpha_in": 1348359.466752671}, 
+"alpha_out": 3371410.872317629, "supply": 4719770.3390703, "tempo": 
+{"blocks_since_last_step": 237, "sn_tempo": 360}, "mechanisms": 1}, "54": 
+{"netuid": 54, "subnet_name": "Yanez MIID", "price": 0.005124425, "market_cap": 
+26956.720055615155, "emission": 0.000760562, "tao_flow_ema": -0.001813433, 
+"liquidity": {"tao_in": 8812.971375787, "alpha_in": 1719796.893761329}, 
+"alpha_out": 3540641.117452643, "supply": 5260438.011213971, "tempo": 
+{"blocks_since_last_step": 217, "sn_tempo": 360}, "mechanisms": 1}, "97": 
+{"netuid": 97, "subnet_name": "Albedo", "price": 0.027820783, "market_cap": 
+26800.3335997914, "emission": 0.013889957, "tao_flow_ema": -0.000201747, 
+"liquidity": {"tao_in": 7953.903770577, "alpha_in": 285897.909288946}, 
+"alpha_out": 677422.698897797, "supply": 963320.608186743, "tempo": 
+{"blocks_since_last_step": 260, "sn_tempo": 360}, "mechanisms": 1}, "61": 
+{"netuid": 61, "subnet_name": "RedTeam", "price": 0.004839833, "market_cap": 
+26299.6382740591, "emission": 0.000726981, "tao_flow_ema": 0.001606769, 
+"liquidity": {"tao_in": 8577.831610358, "alpha_in": 1772340.37761007}, 
+"alpha_out": 3661656.678498911, "supply": 5433997.056108981, "tempo": 
+{"blocks_since_last_step": 224, "sn_tempo": 360}, "mechanisms": 1}, "48": 
+{"netuid": 48, "subnet_name": "Quantum Compute", "price": 0.005005119, 
+"market_cap": 26041.83422794678, "emission": 0.00077998, "tao_flow_ema": 
+-0.002700844, "liquidity": {"tao_in": 11375.875515384, "alpha_in": 
+2272848.140030921}, "alpha_out": 2930191.833233807, "supply": 5203039.973264728,
+"tempo": {"blocks_since_last_step": 211, "sn_tempo": 360}, "mechanisms": 1}, 
+"30": {"netuid": 30, "subnet_name": "Endure Network", "price": 0.004478338, 
+"market_cap": 24017.583068545337, "emission": 0.0, "tao_flow_ema": -0.001635965,
+"liquidity": {"tao_in": 9758.565492503, "alpha_in": 2179059.45724665}, 
+"alpha_out": 3183997.790452236, "supply": 5363057.247698886, "tempo": 
+{"blocks_since_last_step": 193, "sn_tempo": 360}, "mechanisms": 1}, "21": 
+{"netuid": 21, "subnet_name": "AdTAO", "price": 0.004327945, "market_cap": 
+23267.384406512174, "emission": 0.000420684, "tao_flow_ema": -0.001731796, 
+"liquidity": {"tao_in": 8295.18372603, "alpha_in": 1916656.442174905}, 
+"alpha_out": 3459424.909716622, "supply": 5376081.351891527, "tempo": 
+{"blocks_since_last_step": 184, "sn_tempo": 360}, "mechanisms": 1}, "105": 
+{"netuid": 105, "subnet_name": "Beam", "price": 0.010395835, "market_cap": 
+22758.226007685418, "emission": 0.003170245, "tao_flow_ema": -0.001088805, 
+"liquidity": {"tao_in": 5021.965780676, "alpha_in": 483074.786369832}, 
+"alpha_out": 1706092.895464808, "supply": 2189167.68183464, "tempo": 
+{"blocks_since_last_step": 268, "sn_tempo": 360}, "mechanisms": 1}, "69": 
+{"netuid": 69, "subnet_name": "ain", "price": 0.017337694, "market_cap": 
+22401.81114078092, "emission": 0.0, "tao_flow_ema": 0.001139326, "liquidity": 
+{"tao_in": 6197.800272727, "alpha_in": 357475.457167075}, "alpha_out": 
+934611.66472935, "supply": 1292087.121896425, "tempo": 
+{"blocks_since_last_step": 232, "sn_tempo": 360}, "mechanisms": 1}, "37": 
+{"netuid": 37, "subnet_name": "Aurelius", "price": 0.004092501, "market_cap": 
+22374.48846821533, "emission": 0.0, "tao_flow_ema": -0.001181896, "liquidity": 
+{"tao_in": 8822.244848464, "alpha_in": 2155709.790944443}, "alpha_out": 
+3311482.145774773, "supply": 5467191.936719216, "tempo": 
+{"blocks_since_last_step": 200, "sn_tempo": 360}, "mechanisms": 1}, "38": 
+{"netuid": 38, "subnet_name": "ChronoLLM", "price": 0.014229561, "market_cap": 
+21830.612746554718, "emission": 0.0, "tao_flow_ema": -0.001435557, "liquidity": 
+{"tao_in": 4654.045752525, "alpha_in": 327068.807653192}, "alpha_out": 
+1207104.505673531, "supply": 1534173.313326723, "tempo": 
+{"blocks_since_last_step": 201, "sn_tempo": 360}, "mechanisms": 1}, "22": 
+{"netuid": 22, "subnet_name": "Desearch", "price": 0.003910129, "market_cap": 
+21358.348646650924, "emission": 0.000260069, "tao_flow_ema": -0.001517352, 
+"liquidity": {"tao_in": 8488.345893585, "alpha_in": 2170860.396746782}, 
+"alpha_out": 3291452.648846068, "supply": 5462313.04559285, "tempo": 
+{"blocks_since_last_step": 185, "sn_tempo": 360}, "mechanisms": 1}, "91": 
+{"netuid": 91, "subnet_name": "Bitstarter #1", "price": 0.020136474, 
+"market_cap": 21143.153460512236, "emission": 0.0, "tao_flow_ema": -0.000139778,
+"liquidity": {"tao_in": 4719.040278311, "alpha_in": 234352.856341778}, 
+"alpha_out": 815639.980562649, "supply": 1049992.836904427, "tempo": 
+{"blocks_since_last_step": 254, "sn_tempo": 360}, "mechanisms": 1}, "121": 
+{"netuid": 121, "subnet_name": "sundae_bar", "price": 0.005320346, "market_cap":
+20214.455831755036, "emission": 0.0, "tao_flow_ema": -0.001476833, "liquidity": 
+{"tao_in": 6746.690766089, "alpha_in": 1268092.405429005}, "alpha_out": 
+2531370.229473882, "supply": 3799462.634902887, "tempo": 
+{"blocks_since_last_step": 284, "sn_tempo": 360}, "mechanisms": 1}, "25": 
+{"netuid": 25, "subnet_name": "Mainframe", "price": 0.00372978, "market_cap": 
+20117.457994535853, "emission": 0.0, "tao_flow_ema": -0.001890726, "liquidity": 
+{"tao_in": 9873.484281909, "alpha_in": 2647202.179518162}, "alpha_out": 
+2746536.323700756, "supply": 5393738.503218917, "tempo": 
+{"blocks_since_last_step": 188, "sn_tempo": 360}, "mechanisms": 1}, "35": 
+{"netuid": 35, "subnet_name": "OxMarkets", "price": 0.00365528, "market_cap": 
+19639.74274355281, "emission": 0.000554342, "tao_flow_ema": -0.005304274, 
+"liquidity": {"tao_in": 8623.633047962, "alpha_in": 2359225.810856008}, 
+"alpha_out": 3013753.206771318, "supply": 5372979.017627326, "tempo": 
+{"blocks_since_last_step": 198, "sn_tempo": 360}, "mechanisms": 1}, "32": 
+{"netuid": 32, "subnet_name": "ItsAI", "price": 0.003548349, "market_cap": 
+19242.28709905025, "emission": 0.000533918, "tao_flow_ema": -0.001175509, 
+"liquidity": {"tao_in": 7680.906619239, "alpha_in": 2164642.132822871}, 
+"alpha_out": 3258242.453515804, "supply": 5422884.586338675, "tempo": 
+{"blocks_since_last_step": 195, "sn_tempo": 360}, "mechanisms": 1}, "59": 
+{"netuid": 59, "subnet_name": "Babelbit", "price": 0.003596535, "market_cap": 
+19225.09502790347, "emission": 0.000547814, "tao_flow_ema": -0.001721628, 
+"liquidity": {"tao_in": 6725.900165179, "alpha_in": 1870105.088132191}, 
+"alpha_out": 3475344.081110836, "supply": 5345449.1692430265, "tempo": 
+{"blocks_since_last_step": 222, "sn_tempo": 360}, "mechanisms": 1}, "29": 
+{"netuid": 29, "subnet_name": "ho\u03c4floa\u03c4", "price": 0.003553341, 
+"market_cap": 19215.141300486135, "emission": 0.0, "tao_flow_ema": -0.011022358,
+"liquidity": {"tao_in": 9402.079489447, "alpha_in": 2645982.803475369}, 
+"alpha_out": 2761643.793714751, "supply": 5407626.597190119, "tempo": 
+{"blocks_since_last_step": 192, "sn_tempo": 360}, "mechanisms": 1}, "6": 
+{"netuid": 6, "subnet_name": "Numinous", "price": 0.003696217, "market_cap": 
+19145.654988771577, "emission": 0.000578186, "tao_flow_ema": -0.00402388, 
+"liquidity": {"tao_in": 9301.086199652, "alpha_in": 2516379.656668015}, 
+"alpha_out": 2663417.684443608, "supply": 5179797.341111623, "tempo": 
+{"blocks_since_last_step": 169, "sn_tempo": 360}, "mechanisms": 1}, "20": 
+{"netuid": 20, "subnet_name": "GroundLayer", "price": 0.003535878, "market_cap":
+18878.417518605453, "emission": 0.0, "tao_flow_ema": -0.000931629, "liquidity": 
+{"tao_in": 7957.240828072, "alpha_in": 2250428.157268967}, "alpha_out": 
+3088675.035376665, "supply": 5339103.192645632, "tempo": 
+{"blocks_since_last_step": 183, "sn_tempo": 360}, "mechanisms": 1}, "45": 
+{"netuid": 45, "subnet_name": "AlphaRidge.ai", "price": 0.003561167, 
+"market_cap": 18460.57481436169, "emission": 0.0, "tao_flow_ema": -0.00077591, 
+"liquidity": {"tao_in": 7561.251324599, "alpha_in": 2123250.788634303}, 
+"alpha_out": 3060604.620101567, "supply": 5183855.408735869, "tempo": 
+{"blocks_since_last_step": 208, "sn_tempo": 360}, "mechanisms": 1}, "89": 
+{"netuid": 89, "subnet_name": "InfiniteQuant", "price": 0.004303683, 
+"market_cap": 18418.522003987382, "emission": 0.0, "tao_flow_ema": 0.000227408, 
+"liquidity": {"tao_in": 7210.944633554, "alpha_in": 1675528.575317224}, 
+"alpha_out": 2604183.012173625, "supply": 4279711.587490849, "tempo": 
+{"blocks_since_last_step": 252, "sn_tempo": 360}, "mechanisms": 2}, "73": 
+{"netuid": 73, "subnet_name": "Parked", "price": 0.003578961, "market_cap": 
+18325.196627067467, "emission": 0.0, "tao_flow_ema": -0.001200482, "liquidity": 
+{"tao_in": 7353.133118914, "alpha_in": 2054543.763519389}, "alpha_out": 
+3065712.262480187, "supply": 5120256.025999576, "tempo": 
+{"blocks_since_last_step": 236, "sn_tempo": 360}, "mechanisms": 1}, "65": 
+{"netuid": 65, "subnet_name": "TAO Private Network", "price": 0.003393067, 
+"market_cap": 18101.847125871744, "emission": 0.000285175, "tao_flow_ema": 
+-0.000127191, "liquidity": {"tao_in": 7056.925446927, "alpha_in": 
+2079806.809346853}, "alpha_out": 3255144.468028968, "supply": 5334951.277375821,
+"tempo": {"blocks_since_last_step": 228, "sn_tempo": 360}, "mechanisms": 1}, 
+"27": {"netuid": 27, "subnet_name": "Team TBC", "price": 0.003274492, 
+"market_cap": 18007.717046957037, "emission": 0.0, "tao_flow_ema": -0.002571603,
+"liquidity": {"tao_in": 7379.35613974, "alpha_in": 2253587.803548281}, 
+"alpha_out": 3245804.788327662, "supply": 5499392.591875942, "tempo": 
+{"blocks_since_last_step": 190, "sn_tempo": 360}, "mechanisms": 1}, "55": 
+{"netuid": 55, "subnet_name": "NIOME", "price": 0.003634796, "market_cap": 
+17779.387780726644, "emission": 0.000596595, "tao_flow_ema": -0.002858824, 
+"liquidity": {"tao_in": 7496.204314579, "alpha_in": 2062344.957478389}, 
+"alpha_out": 2829095.382151853, "supply": 4891440.3396302415, "tempo": 
+{"blocks_since_last_step": 218, "sn_tempo": 360}, "mechanisms": 1}, "42": 
+{"netuid": 42, "subnet_name": "Unknown", "price": 0.003480559, "market_cap": 
+17750.12120873828, "emission": 0.0, "tao_flow_ema": -0.000751927, "liquidity": 
+{"tao_in": 8723.139327426, "alpha_in": 2506246.583980891}, "alpha_out": 
+2593543.768298235, "supply": 5099790.352279126, "tempo": 
+{"blocks_since_last_step": 205, "sn_tempo": 360}, "mechanisms": 1}, "7": 
+{"netuid": 7, "subnet_name": "Allways", "price": 0.003632242, "market_cap": 
+17591.144381188984, "emission": 0.0, "tao_flow_ema": -0.001063203, "liquidity": 
+{"tao_in": 6739.946004792, "alpha_in": 1855588.151998014}, "alpha_out": 
+2987465.912458315, "supply": 4843054.064456329, "tempo": 
+{"blocks_since_last_step": 170, "sn_tempo": 360}, "mechanisms": 1}, "125": 
+{"netuid": 125, "subnet_name": "8 Ball", "price": 0.004553907, "market_cap": 
+17450.31752341021, "emission": 0.0, "tao_flow_ema": -0.000240212, "liquidity": 
+{"tao_in": 6991.956563093, "alpha_in": 1535375.035967548}, "alpha_out": 
+2296569.165662, "supply": 3831944.201629548, "tempo": {"blocks_since_last_step":
+288, "sn_tempo": 360}, "mechanisms": 1}, "98": {"netuid": 98, "subnet_name": 
+"ForeverMoney", "price": 0.004067349, "market_cap": 17425.560601662477, 
+"emission": 0.0, "tao_flow_ema": -0.001032365, "liquidity": {"tao_in": 
+6234.688781201, "alpha_in": 1532862.832166231}, "alpha_out": 2751392.244460456, 
+"supply": 4284255.076626687, "tempo": {"blocks_since_last_step": 261, 
+"sn_tempo": 360}, "mechanisms": 1}, "104": {"netuid": 104, "subnet_name": "for 
+sale (burn to...", "price": 0.004128034, "market_cap": 17409.413423811005, 
+"emission": 0.0, "tao_flow_ema": -0.001738302, "liquidity": {"tao_in": 
+5899.365412178, "alpha_in": 1429097.750853937}, "alpha_out": 2788264.175867356, 
+"supply": 4217361.926721293, "tempo": {"blocks_since_last_step": 267, 
+"sn_tempo": 360}, "mechanisms": 1}, "101": {"netuid": 101, "subnet_name": 
+"Tag101", "price": 0.005910707, "market_cap": 16951.372669241668, "emission": 
+0.001482927, "tao_flow_ema": 0.000352746, "liquidity": {"tao_in": 
+4490.951762717, "alpha_in": 759799.405563722}, "alpha_out": 2108110.079586137, 
+"supply": 2867909.485149859, "tempo": {"blocks_since_last_step": 264, 
+"sn_tempo": 360}, "mechanisms": 1}, "112": {"netuid": 112, "subnet_name": 
+"minotaur", "price": 0.00561925, "market_cap": 16693.07809439917, "emission": 
+0.0, "tao_flow_ema": -0.001048254, "liquidity": {"tao_in": 5251.854873963, 
+"alpha_in": 934618.438433379}, "alpha_out": 2036076.599943481, "supply": 
+2970695.03837686, "tempo": {"blocks_since_last_step": 275, "sn_tempo": 360}, 
+"mechanisms": 1}, "106": {"netuid": 106, "subnet_name": "Nodexo", "price": 
+0.003889107, "market_cap": 16535.056405850817, "emission": 0.0, "tao_flow_ema": 
+-0.000809157, "liquidity": {"tao_in": 7443.820095989, "alpha_in": 
+1914017.366267551}, "alpha_out": 2337615.825066814, "supply": 4251633.191334365,
+"tempo": {"blocks_since_last_step": 269, "sn_tempo": 360}, "mechanisms": 1}, 
+"88": {"netuid": 88, "subnet_name": "Investing", "price": 0.003566304, 
+"market_cap": 16506.808842742998, "emission": 0.000612886, "tao_flow_ema": 
+-0.000644665, "liquidity": {"tao_in": 6444.16551078, "alpha_in": 
+1806959.08050268}, "alpha_out": 2821588.806257113, "supply": 4628547.886759793, 
+"tempo": {"blocks_since_last_step": 251, "sn_tempo": 360}, "mechanisms": 1}, 
+"72": {"netuid": 72, "subnet_name": "StreetVision by N...", "price": 
+0.003318655, "market_cap": 16025.8637437683, "emission": 0.0, "tao_flow_ema": 
+-0.000693472, "liquidity": {"tao_in": 7726.015812823, "alpha_in": 
+2328056.021999607}, "alpha_out": 2500967.70712207, "supply": 4829023.729121677, 
+"tempo": {"blocks_since_last_step": 235, "sn_tempo": 360}, "mechanisms": 1}, 
+"49": {"netuid": 49, "subnet_name": "Nepher Robotics", "price": 0.007475209, 
+"market_cap": 16016.497934125497, "emission": 0.002286057, "tao_flow_ema": 
+-3.6835e-05, "liquidity": {"tao_in": 3109.604903121, "alpha_in": 
+415989.004167177}, "alpha_out": 1726626.39750594, "supply": 2142615.4016731167, 
+"tempo": {"blocks_since_last_step": 212, "sn_tempo": 360}, "mechanisms": 1}, 
+"114": {"netuid": 114, "subnet_name": "SOMA", "price": 0.011069683, 
+"market_cap": 15922.450321108556, "emission": 0.00443224, "tao_flow_ema": 
+-0.000331092, "liquidity": {"tao_in": 3730.963661886, "alpha_in": 
+337043.383141958}, "alpha_out": 1101340.20210692, "supply": 1438383.585248878, 
+"tempo": {"blocks_since_last_step": 277, "sn_tempo": 360}, "mechanisms": 1}, 
+"100": {"netuid": 100, "subnet_name": "BASE", "price": 0.008069115, 
+"market_cap": 15917.61803010059, "emission": 0.0, "tao_flow_ema": -0.001453934, 
+"liquidity": {"tao_in": 3447.911852662, "alpha_in": 427297.392680762}, 
+"alpha_out": 1545362.314127307, "supply": 1972659.7068080688, "tempo": 
+{"blocks_since_last_step": 263, "sn_tempo": 360}, "mechanisms": 1}, "128": 
+{"netuid": 128, "subnet_name": "ByteLeap", "price": 0.003860446, "market_cap": 
+14558.569392118095, "emission": 0.0, "tao_flow_ema": -0.000224243, "liquidity": 
+{"tao_in": 4702.210899274, "alpha_in": 1218048.333825521}, "alpha_out": 
+2553166.026411119, "supply": 3771214.36023664, "tempo": 
+{"blocks_since_last_step": 291, "sn_tempo": 360}, "mechanisms": 1}, "123": 
+{"netuid": 123, "subnet_name": "MANTIS", "price": 0.00375192, "market_cap": 
+14151.520668868206, "emission": 0.000761517, "tao_flow_ema": -0.002611595, 
+"liquidity": {"tao_in": 7050.48612553, "alpha_in": 1879167.125985603}, 
+"alpha_out": 1892640.553514015, "supply": 3771807.679499618, "tempo": 
+{"blocks_since_last_step": 286, "sn_tempo": 360}, "mechanisms": 1}, "127": 
+{"netuid": 127, "subnet_name": "Astrid", "price": 0.003818951, "market_cap": 
+13843.130287909304, "emission": 0.0, "tao_flow_ema": -0.00113113, "liquidity": 
+{"tao_in": 3831.537043329, "alpha_in": 1003295.636491056}, "alpha_out": 
+2621555.870613723, "supply": 3624851.507104779, "tempo": 
+{"blocks_since_last_step": 290, "sn_tempo": 360}, "mechanisms": 1}, "115": 
+{"netuid": 115, "subnet_name": "HashiChain", "price": 0.005373587, "market_cap":
+13553.803896134385, "emission": 0.0, "tao_flow_ema": -0.001031041, "liquidity": 
+{"tao_in": 5096.845862564, "alpha_in": 948499.706959422}, "alpha_out": 
+1573801.299078888, "supply": 2522301.00603831, "tempo": 
+{"blocks_since_last_step": 278, "sn_tempo": 360}, "mechanisms": 1}, "103": 
+{"netuid": 103, "subnet_name": "Djinn", "price": 0.003536888, "market_cap": 
+13153.846176360708, "emission": 0.000725966, "tao_flow_ema": -0.002015597, 
+"liquidity": {"tao_in": 4149.40834358, "alpha_in": 1173180.592264585}, 
+"alpha_out": 2545864.561656237, "supply": 3719045.153920822, "tempo": 
+{"blocks_since_last_step": 266, "sn_tempo": 360}, "mechanisms": 1}, "102": 
+{"netuid": 102, "subnet_name": "ConnitoAI", "price": 0.015602753, "market_cap": 
+13000.974861702829, "emission": 0.008354796, "tao_flow_ema": -9.9957e-05, 
+"liquidity": {"tao_in": 3716.9783705, "alpha_in": 238225.798635517}, 
+"alpha_out": 595022.978788751, "supply": 833248.777424268, "tempo": 
+{"blocks_since_last_step": 265, "sn_tempo": 360}, "mechanisms": 1}, "40": 
+{"netuid": 40, "subnet_name": "Ralph", "price": 0.038453149, "market_cap": 
+11323.769651413993, "emission": 0.029429516, "tao_flow_ema": -1.855e-06, 
+"liquidity": {"tao_in": 3695.78015445, "alpha_in": 96111.248051962}, 
+"alpha_out": 198370.997119012, "supply": 294482.245170974, "tempo": 
+{"blocks_since_last_step": 203, "sn_tempo": 360}, "mechanisms": 1}, "126": 
+{"netuid": 126, "subnet_name": "Poker44", "price": 0.008750018, "market_cap": 
+10894.902008184656, "emission": 0.003810422, "tao_flow_ema": -0.000158324, 
+"liquidity": {"tao_in": 2675.691078281, "alpha_in": 305792.625608781}, 
+"alpha_out": 939336.471061038, "supply": 1245129.096669819, "tempo": 
+{"blocks_since_last_step": 289, "sn_tempo": 360}, "mechanisms": 1}, "119": 
+{"netuid": 119, "subnet_name": "Satori", "price": 0.004537605, "market_cap": 
+10643.60071257051, "emission": 0.0, "tao_flow_ema": -0.000864772, "liquidity": 
+{"tao_in": 4350.043456961, "alpha_in": 958664.934118182}, "alpha_out": 
+1386977.913280503, "supply": 2345642.847398685, "tempo": 
+{"blocks_since_last_step": 282, "sn_tempo": 360}, "mechanisms": 1}, "117": 
+{"netuid": 117, "subnet_name": "Unknown", "price": 0.004344916, "market_cap": 
+10511.26275522006, "emission": 0.0, "tao_flow_ema": -0.000753783, "liquidity": 
+{"tao_in": 3698.429789373, "alpha_in": 851208.4942976}, "alpha_out": 
+1568001.164812049, "supply": 2419209.659109649, "tempo": 
+{"blocks_since_last_step": 280, "sn_tempo": 360}, "mechanisms": 1}, "96": 
+{"netuid": 96, "subnet_name": "Verathos", "price": 0.015118457, "market_cap": 
+9689.34817421707, "emission": 0.007557102, "tao_flow_ema": 0.000791414, 
+"liquidity": {"tao_in": 2795.934599543, "alpha_in": 184935.181089334}, 
+"alpha_out": 455960.12814871, "supply": 640895.309238044, "tempo": 
+{"blocks_since_last_step": 259, "sn_tempo": 360}, "mechanisms": 1}, "67": 
+{"netuid": 67, "subnet_name": "Harnyx", "price": 0.010275748, "market_cap": 
+9560.935431581227, "emission": 0.005219561, "tao_flow_ema": 0.000155662, 
+"liquidity": {"tao_in": 2894.455453494, "alpha_in": 281678.299203696}, 
+"alpha_out": 648758.631672891, "supply": 930436.930876587, "tempo": 
+{"blocks_since_last_step": 230, "sn_tempo": 360}, "mechanisms": 1}, "113": 
+{"netuid": 113, "subnet_name": "TensorUSD", "price": 0.00471542, "market_cap": 
+8558.551996570744, "emission": 0.0, "tao_flow_ema": -0.000488973, "liquidity": 
+{"tao_in": 2497.580493152, "alpha_in": 529662.344244113}, "alpha_out": 
+1285351.375969727, "supply": 1815013.72021384, "tempo": 
+{"blocks_since_last_step": 276, "sn_tempo": 360}, "mechanisms": 2}, "31": 
+{"netuid": 31, "subnet_name": "rec4ll", "price": 0.004667437, "market_cap": 
+7894.054418102699, "emission": 0.0, "tao_flow_ema": -3.4653e-05, "liquidity": 
+{"tao_in": 1947.702056903, "alpha_in": 417295.805549488}, "alpha_out": 
+1274008.098092425, "supply": 1691303.9036419129, "tempo": 
+{"blocks_since_last_step": 194, "sn_tempo": 360}, "mechanisms": 1}, "26": 
+{"netuid": 26, "subnet_name": "Perturb", "price": 0.007817932, "market_cap": 
+7739.135912951565, "emission": 0.0, "tao_flow_ema": -0.000141882, "liquidity": 
+{"tao_in": 2927.462341405, "alpha_in": 374454.796882449}, "alpha_out": 
+615466.311788177, "supply": 989921.1086706261, "tempo": 
+{"blocks_since_last_step": 189, "sn_tempo": 360}, "mechanisms": 1}, "86": 
+{"netuid": 86, "subnet_name": "\u2692", "price": 0.003435137, "market_cap": 
+7138.541665823294, "emission": 0.0, "tao_flow_ema": -0.000517922, "liquidity": 
+{"tao_in": 2140.64880766, "alpha_in": 623162.395801428}, "alpha_out": 
+1454932.791034874, "supply": 2078095.186836302, "tempo": 
+{"blocks_since_last_step": 249, "sn_tempo": 360}, "mechanisms": 1}, "87": 
+{"netuid": 87, "subnet_name": "unknown", "price": 0.004365616, "market_cap": 
+7134.5880207859045, "emission": 0.0, "tao_flow_ema": -0.00048106, "liquidity": 
+{"tao_in": 1729.457558993, "alpha_in": 396154.241742334}, "alpha_out": 
+1238114.099950088, "supply": 1634268.341692422, "tempo": 
+{"blocks_since_last_step": 250, "sn_tempo": 360}, "mechanisms": 2}, "57": 
+{"netuid": 57, "subnet_name": "gaia", "price": 0.008195927, "market_cap": 
+7123.299937016865, "emission": 0.0, "tao_flow_ema": -0.000137802, "liquidity": 
+{"tao_in": 2309.677260403, "alpha_in": 281807.924619162}, "alpha_out": 
+587318.891300119, "supply": 869126.815919281, "tempo": 
+{"blocks_since_last_step": 220, "sn_tempo": 360}, "mechanisms": 1}, "108": 
+{"netuid": 108, "subnet_name": "TalkHead", "price": 0.003796792, "market_cap": 
+7041.613528479368, "emission": 0.0, "tao_flow_ema": 0.000511147, "liquidity": 
+{"tao_in": 2165.006224033, "alpha_in": 570219.758420709}, "alpha_out": 
+1284402.12460037, "supply": 1854621.883021079, "tempo": 
+{"blocks_since_last_step": 271, "sn_tempo": 360}, "mechanisms": 1}, "122": 
+{"netuid": 122, "subnet_name": "CookingTAO", "price": 0.013237098, "market_cap":
+6580.535231845757, "emission": 0.0, "tao_flow_ema": 0.000362588, "liquidity": 
+{"tao_in": 2426.668891334, "alpha_in": 183323.326508092}, "alpha_out": 
+313804.913521993, "supply": 497128.24003008497, "tempo": 
+{"blocks_since_last_step": 285, "sn_tempo": 360}, "mechanisms": 1}, "109": 
+{"netuid": 109, "subnet_name": "Academia", "price": 0.004111254, "market_cap": 
+6454.053601131776, "emission": 0.0, "tao_flow_ema": -0.000708007, "liquidity": 
+{"tao_in": 1677.032667022, "alpha_in": 407912.619055327}, "alpha_out": 
+1161937.748042346, "supply": 1569850.367097673, "tempo": 
+{"blocks_since_last_step": 272, "sn_tempo": 360}, "mechanisms": 1}, "94": 
+{"netuid": 94, "subnet_name": "pending...", "price": 0.003308588, "market_cap": 
+6151.319597784088, "emission": 0.000138045, "tao_flow_ema": -7.2901e-05, 
+"liquidity": {"tao_in": 1948.714934041, "alpha_in": 588986.773677899}, 
+"alpha_out": 1270211.046595912, "supply": 1859197.820273811, "tempo": 
+{"blocks_since_last_step": 257, "sn_tempo": 360}, "mechanisms": 1}, "90": 
+{"netuid": 90, "subnet_name": "ogham", "price": 0.00319493, "market_cap": 
+5977.212943659533, "emission": 0.0, "tao_flow_ema": -0.000327778, "liquidity": 
+{"tao_in": 1955.832265869, "alpha_in": 612167.442662342}, "alpha_out": 
+1258675.719366101, "supply": 1870843.162028443, "tempo": 
+{"blocks_since_last_step": 253, "sn_tempo": 360}, "mechanisms": 1}, "80": 
+{"netuid": 80, "subnet_name": "unknown", "price": 0.003506713, "market_cap": 
+5951.623336127116, "emission": 0.0, "tao_flow_ema": -0.000290347, "liquidity": 
+{"tao_in": 1482.534869166, "alpha_in": 422770.449011181}, "alpha_out": 
+1274438.115284533, "supply": 1697208.564295714, "tempo": 
+{"blocks_since_last_step": 243, "sn_tempo": 360}, "mechanisms": 1}, "116": 
+{"netuid": 116, "subnet_name": "Memo", "price": 0.013302409, "market_cap": 
+5632.99327750532, "emission": 0.0, "tao_flow_ema": 0.000161424, "liquidity": 
+{"tao_in": 2140.621265134, "alpha_in": 160919.813590679}, "alpha_out": 
+262536.81576911, "supply": 423456.62935978896, "tempo": 
+{"blocks_since_last_step": 279, "sn_tempo": 360}, "mechanisms": 1}, "82": 
+{"netuid": 82, "subnet_name": "Compelle", "price": 0.008753013, "market_cap": 
+5222.10380275495, "emission": 0.005399236, "tao_flow_ema": 0.000490969, 
+"liquidity": {"tao_in": 1455.714557957, "alpha_in": 166310.100517752}, 
+"alpha_out": 430296.32549292, "supply": 596606.426010672, "tempo": 
+{"blocks_since_last_step": 245, "sn_tempo": 360}, "mechanisms": 1}, "47": 
+{"netuid": 47, "subnet_name": "EvolAI", "price": 0.003578303, "market_cap": 
+5134.759828518082, "emission": 0.0, "tao_flow_ema": 1.9567e-05, "liquidity": 
+{"tao_in": 1423.179244005, "alpha_in": 397724.63050287}, "alpha_out": 
+1037246.03255112, "supply": 1434970.66305399, "tempo": 
+{"blocks_since_last_step": 210, "sn_tempo": 360}, "mechanisms": 1}, "99": 
+{"netuid": 99, "subnet_name": "Leoma", "price": 0.003357286, "market_cap": 
+4488.568288489853, "emission": 0.0, "tao_flow_ema": -0.000271845, "liquidity": 
+{"tao_in": 1355.836296868, "alpha_in": 403848.89023477}, "alpha_out": 
+933114.445176587, "supply": 1336963.335411357, "tempo": 
+{"blocks_since_last_step": 262, "sn_tempo": 360}, "mechanisms": 1}, "92": 
+{"netuid": 92, "subnet_name": "wgmi", "price": 0.012489316, "market_cap": 
+4316.658121557223, "emission": 0.0, "tao_flow_ema": -2.6195e-05, "liquidity": 
+{"tao_in": 1755.836888488, "alpha_in": 140587.103916887}, "alpha_out": 
+205040.96102736, "supply": 345628.064944247, "tempo": {"blocks_since_last_step":
+255, "sn_tempo": 360}, "mechanisms": 1}, "76": {"netuid": 76, "subnet_name": 
+"Byzantium", "price": 0.003491975, "market_cap": 4084.9843356379906, "emission":
+0.0, "tao_flow_ema": -0.000497131, "liquidity": {"tao_in": 1319.434538977, 
+"alpha_in": 377847.562909868}, "alpha_out": 791973.050249731, "supply": 
+1169820.613159599, "tempo": {"blocks_since_last_step": 239, "sn_tempo": 360}, 
+"mechanisms": 1}, "70": {"netuid": 70, "subnet_name": "NexisGen", "price": 
+0.004227076, "market_cap": 3892.267605578924, "emission": 0.0, "tao_flow_ema": 
+-4.6213e-05, "liquidity": {"tao_in": 1297.113240388, "alpha_in": 
+306858.233979437}, "alpha_out": 613936.094198936, "supply": 920794.3281783729, 
+"tempo": {"blocks_since_last_step": 233, "sn_tempo": 360}, "mechanisms": 1}, 
+"78": {"netuid": 78, "subnet_name": "Vocence", "price": 0.004655543, 
+"market_cap": 3315.7386002428866, "emission": 0.0, "tao_flow_ema": 0.000137918, 
+"liquidity": {"tao_in": 1135.526545228, "alpha_in": 243908.475197413}, 
+"alpha_out": 468304.600751598, "supply": 712213.075949011, "tempo": 
+{"blocks_since_last_step": 241, "sn_tempo": 360}, "mechanisms": 1}, "36": 
+{"netuid": 36, "subnet_name": "Eirel", "price": 0.00405139, "market_cap": 
+3300.492883283059, "emission": 0.0, "tao_flow_ema": 5.2236e-05, "liquidity": 
+{"tao_in": 1181.136007429, "alpha_in": 291538.446631179}, "alpha_out": 
+523118.469460103, "supply": 814656.916091282, "tempo": 
+{"blocks_since_last_step": 199, "sn_tempo": 360}, "mechanisms": 1}, "16": 
+{"netuid": 16, "subnet_name": "Fast Thinker", "price": 0.016289177, 
+"market_cap": 3222.010631584309, "emission": 0.0, "tao_flow_ema": 0.000900611, 
+"liquidity": {"tao_in": 1356.004540616, "alpha_in": 83245.736220083}, 
+"alpha_out": 114554.964919349, "supply": 197800.701139432, "tempo": 
+{"blocks_since_last_step": 179, "sn_tempo": 360}, "mechanisms": 1}, "84": 
+{"netuid": 84, "subnet_name": "ansuz", "price": 0.003566328, "market_cap": 
+3127.590875681235, "emission": 0.0, "tao_flow_ema": -0.004139727, "liquidity": 
+{"tao_in": 1776.382462676, "alpha_in": 498098.443283169}, "alpha_out": 
+378879.466679469, "supply": 876977.909962638, "tempo": 
+{"blocks_since_last_step": 247, "sn_tempo": 360}, "mechanisms": 1}, "58": 
+{"netuid": 58, "subnet_name": "greevils", "price": 0.00685316, "market_cap": 
+899.1787756286569, "emission": 0.0, "tao_flow_ema": null, "liquidity": 
+{"tao_in": 899.178859957, "alpha_in": 131206.447190589}, "alpha_out": 0.0, 
+"supply": 131206.447190589, "tempo": {"blocks_since_last_step": 71, "sn_tempo": 
+360}, "mechanisms": 1}}}
